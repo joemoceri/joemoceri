@@ -1,4 +1,4 @@
-### <a href="https://joemoceri.github.io/video-loop-tool/?v=PBAl9cchQac&s=0&e=12" target="_blank">Hi there 👋</a>
+### [Hi there 👋](https://joemoceri.github.io/video-loop-tool/?v=PBAl9cchQac&s=0&e=12)
 
 <!--
 **joemoceri/joemoceri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
