@@ -131,14 +131,6 @@
         height="40"
     />
 </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg"
-        alt="dotnet"
-        width="40"
-        height="40"
-    />
-</a>
 <a href="https://github.com/dotnet/core" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg"
