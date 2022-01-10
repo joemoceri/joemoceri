@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on database solutions for sql server, mysql, postgresql, and mongoDB using [database-toolkit](https://github.com/joemoceri/database-toolkit).
 
-- 🌱 I’m currently learning the latest in react js and docker with kubernetes.
+- 🌱 I’m currently focused on ReactJS, Docker with Kubernetes and Vue.js.
 
 - 👯 I’m looking to collaborate on full stack dev tooling. 
 
