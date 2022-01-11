@@ -429,7 +429,7 @@
 <a href="https://yarnpkg.com/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-        alt="wordpress"
+        alt="yarn"
         width="40"
         height="40"
     />
