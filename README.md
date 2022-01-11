@@ -59,6 +59,14 @@
         height="40"
     />
 </a>
+<a href="https://babeljs.io/" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"
+        alt="babel"
+        width="40"
+        height="40"
+    />
+</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
@@ -135,6 +143,14 @@
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg"
         alt="dotnetcore"
+        width="40"
+        height="40"
+    />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+        alt="express"
         width="40"
         height="40"
     />
@@ -356,7 +372,7 @@
 </a>
 <a href="https://unity.com/" target="_blank">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
         alt="unity"
         width="40"
         height="40"
@@ -386,6 +402,14 @@
         height="40"
     />
 </a>
+<a href="https://vuejs.org/" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+        alt="vuejs"
+        width="40"
+        height="40"
+    />
+</a>
 <a href="https://webpack.js.org/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg"
@@ -397,6 +421,14 @@
 <a href="https://wordpress.com/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"
+        alt="wordpress"
+        width="40"
+        height="40"
+    />
+</a>
+<a href="https://yarnpkg.com/" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
         alt="wordpress"
         width="40"
         height="40"
