@@ -187,6 +187,14 @@
         height="40"
     />
 </a>
+<a href="https://graphql.org/" target="_blank">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
+        alt="graphql"
+        width="40"
+        height="40"
+    />
+</a>
 <a href="https://gruntjs.com/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original-wordmark.svg"
